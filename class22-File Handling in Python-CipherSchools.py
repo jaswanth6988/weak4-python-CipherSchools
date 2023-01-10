@@ -14,8 +14,8 @@ file.close() #Closing a file is important because when you open a file in write 
 
 '''Writing a file'''
 file=open("random.txt","w")
-file.write("Jatin katyal")
-a=["Jatin","Katyal","nmarth","aaranah"]
+file.write("maggi yeppie")
+a=["noodles","yeppie","maggie","ramen"]
 file.writelines(a)
 file.close()
 
